@@ -86,5 +86,7 @@
 |#   	|date 		|files_updates 	|comment									|
 |------:|:----------|:--------------|:------------------------------------------|
 |1 		|27 Mar 2025|all			|initial commit								|
-|2 		|27 Mar 2025|all			|edited README								|
+|2 		|27 Mar 2025|README			|edited README								|
+|3 		|27 Mar 2025|README			|edited README - commit portion				|
+
 
